@@ -26,7 +26,7 @@ A React Native note-taking app with audio recording and AI summarization capabil
 1. Clone the repository:
    ```
    git clone https://github.com/Tues-lucky/ai-note-taker.git
-   cd DoneWithIt
+   cd ai-note-taker
    ```
 
 2. Install dependencies:
